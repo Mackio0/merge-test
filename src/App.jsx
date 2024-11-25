@@ -28,6 +28,9 @@ const App = () => {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <TestPage/>
+
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda quibusdam ab fuga alias doloremque, placeat error corporis in! Voluptas vero error facilis enim, praesentium recusandae hic voluptates molestias veritatis quas!</p>
     </>
   )
 }
